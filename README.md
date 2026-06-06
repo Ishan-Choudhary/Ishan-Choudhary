@@ -1,94 +1,76 @@
-<h1 align="center">Hi 👋, I'm Ishan Choudhary</h1>
-<h3 align="center">Backend engineer building real-world ML systems</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Production-grade ML system with API, frontend, and deployment**  
-  → Customer Churn Prediction System  
-  🔗 https://customer-churn-prediction-web.vercel.app/
+# Ishan Choudhary
 
-- 🌱 I’m currently learning:
-  - Machine Learning (Andrew Ng Specialization)
-  - ML system design and deployment
-  - Agent-based automation systems
-  - Backend scalability and reliability
+**Full-stack engineer. Building things that are hard to build.**
 
-- 💬 Ask me about:
-  - Backend development (Django, Node.js, REST APIs)
-  - ML pipelines and model deployment
-  - React frontend integration
-  - System design fundamentals
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-d-choudhary)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ishan-Choudhary)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ishan.dchoudhary@gmail.com)
 
-<br />
-<br />
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
 
-<p align="left">
-  <a href="https://linkedin.com/in/ishan-d-choudhary" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  
-  <a href="https://medium.com/@ishanc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" />
-  </a>
-  
-  <a href="https://leetcode.com/ishan-choudhary" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
-  </a>
-</p>
+## What I'm Building
 
+### CodeArena &nbsp;🔗 &nbsp;*(in progress)*
+> A real-time collaborative coding interview platform with an AI interviewer, sandboxed code execution, and full session replay.
 
-<h3 align="left">Languages and Tools:</h3>
+- **Real-time editor sync** — two users editing the same file simultaneously with conflict-free resolution using Yjs CRDT over Django Channels WebSockets
+- **Sandboxed code execution** — user-submitted code runs in isolated Docker containers with network disabled, 256MB RAM cap, and a 5s timeout via the Docker Python SDK
+- **AI interviewer** — watches your code live, asks follow-up questions, and generates a full feedback report at session end using the Claude API
+- **Session replay** — every editor event stored to PostgreSQL, full scrubber UI to review your problem-solving approach
+- **Dual mode** — solo Practice Mode with AI interviewer, or two-person Mock Interview Mode
 
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  </a>
+`Django` `Django Channels` `WebSockets` `Yjs` `Redis` `PostgreSQL` `Docker` `React` `AWS` `Claude API`
 
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
-  </a>
+> ⚡ Active development on the `websockets` branch — check it for latest commits
 
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
-  </a>
+---
 
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
-  </a>
+## Stack
 
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  </a>
+```
+Backend      Django · Django REST Framework · Django Channels · PostgreSQL · Redis
+Frontend     React · Vite · TailwindCSS · Monaco Editor
+DevOps       Docker · Docker Compose · AWS EC2 · GitHub Actions
+Languages    Python · JavaScript · SQL
+```
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  </a>
+---
 
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  </a>
+## Other Projects
 
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
-  </a>
+**Customer Churn Prediction System** &nbsp;[🔗 Live](https://customer-churn-prediction-web.vercel.app/)
+End-to-end ML system — Scikit-Learn model, Django REST API for inference, React frontend with churn risk visualization.
+`Python` `Scikit-Learn` `Django` `React` `Vercel`
 
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
-  </a>
+**InsurFolio** — Full-stack health insurance and claims management platform.
+Multi-container backend with Docker, JWT auth, Prisma ORM, transactional claims processing.
+`Node.js` `PostgreSQL` `Prisma` `JWT` `Docker`
 
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  </a>
+**Finance Tracker** — Personal finance tracking with Google auth and anonymous login.
+`React` `Firebase` `Docker`
 
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  </a>
+---
 
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
-  </a>
+## Currently Learning
 
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  </a>
-</p>
+- Django Channels and real-time WebSocket architecture
+- System design — distributed systems, scalability patterns
+- AWS Solutions Architect
+- DSA — trees, graphs, dynamic programming
+
+---
+
+## Education
+
+**B.Tech Computer Engineering** — NMIMS University, Mumbai &nbsp;·&nbsp; CGPA: 9.27 &nbsp;·&nbsp; 2024–2028
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishan-Choudhary&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D12&title_color=7F77DD&icon_color=7F77DD&text_color=8888A0" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Choudhary&layout=compact&theme=dark&hide_border=true&bg_color=0D0D12&title_color=7F77DD&text_color=8888A0" height="150" />
+</div>
