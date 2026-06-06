@@ -59,8 +59,7 @@ Multi-container backend with Docker, JWT auth, Prisma ORM, transactional claims 
 
 - Django Channels and real-time WebSocket architecture
 - System design — distributed systems, scalability patterns
-- AWS Solutions Architect
-- DSA — trees, graphs, dynamic programming
+- AWS Fundamentals
 
 ---
 
