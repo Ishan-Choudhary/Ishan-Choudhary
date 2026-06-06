@@ -66,11 +66,4 @@ Multi-container backend with Docker, JWT auth, Prisma ORM, transactional claims 
 
 ## Education
 
-**B.Tech Computer Engineering** — NMIMS University, Mumbai &nbsp;·&nbsp; CGPA: 9.27 &nbsp;·&nbsp; 2024–2028
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishan-Choudhary&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D12&title_color=7F77DD&icon_color=7F77DD&text_color=8888A0" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Choudhary&layout=compact&theme=dark&hide_border=true&bg_color=0D0D12&title_color=7F77DD&text_color=8888A0" height="150" />
-</div>
+**B.Tech Computer Engineering** — NMIMS University, Mumbai &nbsp;·&nbsp; CGPA: 9.14 &nbsp;·&nbsp; 2024–2028
