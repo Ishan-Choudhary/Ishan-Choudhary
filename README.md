@@ -17,15 +17,15 @@
 ### CodeArena &nbsp;🔗 &nbsp;*(in progress)*
 > A real-time collaborative coding interview platform with an AI interviewer, sandboxed code execution, and full session replay.
 
-- **Real-time editor sync** — two users editing the same file simultaneously with conflict-free resolution using Yjs CRDT over Django Channels WebSockets
-- **Sandboxed code execution** — user-submitted code runs in isolated Docker containers with network disabled, 256MB RAM cap, and a 5s timeout via the Docker Python SDK
-- **AI interviewer** — watches your code live, asks follow-up questions, and generates a full feedback report at session end using the Claude API
-- **Session replay** — every editor event stored to PostgreSQL, full scrubber UI to review your problem-solving approach
-- **Dual mode** — solo Practice Mode with AI interviewer, or two-person Mock Interview Mode
+- **Real-time editor sync** - two users editing the same file simultaneously with conflict-free resolution using Yjs CRDT over Django Channels WebSockets
+- **Sandboxed code execution** - user-submitted code runs in isolated Docker containers with network disabled, 256MB RAM cap, and a 5s timeout via the Docker Python SDK
+- **AI interviewer** - watches your code live, asks follow-up questions, and generates a full feedback report at session end using the Claude API
+- **Session replay** - every editor event stored to PostgreSQL, full scrubber UI to review your problem-solving approach
+- **Dual mode** - solo Practice Mode with AI interviewer, or two-person Mock Interview Mode
 
 `Django` `Django Channels` `WebSockets` `Yjs` `Redis` `PostgreSQL` `Docker` `React` `AWS` `Claude API`
 
-> ⚡ Active development on the `websockets` branch — check it for latest commits
+> ⚡ Active development on the `main` branch - check it for latest commits
 
 ---
 
@@ -46,12 +46,12 @@ Languages    Python · JavaScript · SQL
 End-to-end ML system — Scikit-Learn model, Django REST API for inference, React frontend with churn risk visualization.
 `Python` `Scikit-Learn` `Django` `React` `Vercel`
 
-**InsurFolio** — Full-stack health insurance and claims management platform.
-Multi-container backend with Docker, JWT auth, Prisma ORM, transactional claims processing.
-`Node.js` `PostgreSQL` `Prisma` `JWT` `Docker`
 
 **Finance Tracker** — Personal finance tracking with Google auth and anonymous login.
 `React` `Firebase` `Docker`
+
+
+**Weather App** - Real time weather app to demonstrate clean aesthetically pleasing UI
 
 ---
 
